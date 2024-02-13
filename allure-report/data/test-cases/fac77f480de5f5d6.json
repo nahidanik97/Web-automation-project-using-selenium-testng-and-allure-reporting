@@ -1,0 +1,91 @@
+{
+  "uid" : "fac77f480de5f5d6",
+  "name" : "clickOnNewCustomerContinueButton",
+  "fullName" : "testclasses.LoginPageNewCustomerTest.clickOnNewCustomerContinueButton",
+  "historyId" : "fb83a456ea02c7ea0f15b815695b2fd6",
+  "time" : {
+    "start" : 1707788606152,
+    "stop" : 1707788606602,
+    "duration" : 450
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "setBrowser",
+    "time" : {
+      "start" : 1707788603036,
+      "stop" : 1707788604380,
+      "duration" : 1344
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "quitBrowser",
+    "time" : {
+      "start" : 1707788609095,
+      "stop" : 1707788609183,
+      "duration" : 88
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testclasses.LoginPageNewCustomerTest"
+  }, {
+    "name" : "testClass",
+    "value" : "testclasses.LoginPageNewCustomerTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "clickOnNewCustomerContinueButton"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "testclasses.LoginPageNewCustomerTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-E026L7N"
+  }, {
+    "name" : "thread",
+    "value" : "3856@DESKTOP-E026L7N.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fac77f480de5f5d6.json",
+  "parameterValues" : [ ]
+}

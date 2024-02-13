@@ -1,0 +1,141 @@
+[ {
+  "uid" : "796e0135f5b6d8fc",
+  "name" : "checkoutFormFillup",
+  "time" : {
+    "start" : 1707851724019,
+    "stop" : 1707851724208,
+    "duration" : 189
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "df2a8538b4cfa80c",
+  "name" : "checkoutFormFillup",
+  "time" : {
+    "start" : 1707857525033,
+    "stop" : 1707857540630,
+    "duration" : 15597
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "799a736db90eb7d2",
+  "name" : "homePageStartup",
+  "time" : {
+    "start" : 1707857498220,
+    "stop" : 1707857505915,
+    "duration" : 7695
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8fc3aa5b860ecdde",
+  "name" : "clickOnNewCustomerContinueButton",
+  "time" : {
+    "start" : 1707857003709,
+    "stop" : 1707857004137,
+    "duration" : 428
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b95322bafcc301a3",
+  "name" : "customerLogin",
+  "time" : {
+    "start" : 1707857508548,
+    "stop" : 1707857511217,
+    "duration" : 2669
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bbefd4ed7f7e7200",
+  "name" : "submitRegistration",
+  "time" : {
+    "start" : 1707856934997,
+    "stop" : 1707856952107,
+    "duration" : 17110
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a6d7aa6efd1d1b1c",
+  "name" : "toHomePage",
+  "time" : {
+    "start" : 1707857511217,
+    "stop" : 1707857513898,
+    "duration" : 2681
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "96a53c2b9386f824",
+  "name" : "submitRegistration",
+  "time" : {
+    "start" : 1707791740061,
+    "stop" : 1707791757711,
+    "duration" : 17650
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "64b199ae706e2117",
+  "name" : "addToCartTest",
+  "time" : {
+    "start" : 1707857520251,
+    "stop" : 1707857522327,
+    "duration" : 2076
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6b6ea1a00d054fea",
+  "name" : "clickOnAccountButton",
+  "time" : {
+    "start" : 1707857505949,
+    "stop" : 1707857508548,
+    "duration" : 2599
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7af5ce15eff771eb",
+  "name" : "ckeckOutClick",
+  "time" : {
+    "start" : 1707857522327,
+    "stop" : 1707857525033,
+    "duration" : 2706
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "98650085cfc1c87b",
+  "name" : "submitRegistration",
+  "time" : {
+    "start" : 1707857004141,
+    "stop" : 1707857021581,
+    "duration" : 17440
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d438b2c9744cc2e",
+  "name" : "clickToAppleLaptopTest",
+  "time" : {
+    "start" : 1707857513899,
+    "stop" : 1707857517498,
+    "duration" : 3599
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8118a2e9fc40f860",
+  "name" : "selectLaptop",
+  "time" : {
+    "start" : 1707857517498,
+    "stop" : 1707857520251,
+    "duration" : 2753
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

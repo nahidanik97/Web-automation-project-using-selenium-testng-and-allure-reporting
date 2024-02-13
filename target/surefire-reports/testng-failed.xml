@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Surefire suite]" verbose="0">
+  <test thread-count="5" name="Surefire test(failed)" verbose="0">
+    <classes>
+      <class name="testclasses.LoginPageNewCustomerTest">
+        <methods>
+          <include name="quitBrowser"/>
+          <include name="clickOnNewCustomerContinueButton"/>
+          <include name="setBrowser"/>
+        </methods>
+      </class> <!-- testclasses.LoginPageNewCustomerTest -->
+      <class name="testclasses.ResgistrationTest">
+        <methods>
+          <include name="submitRegistration" invocation-numbers="0"/>
+          <include name="quitBrowser"/>
+          <include name="setBrowser"/>
+        </methods>
+      </class> <!-- testclasses.ResgistrationTest -->
+      <class name="testclasses.HomePageFromAccountTest">
+        <methods>
+          <include name="toHomePage"/>
+          <include name="quitBrowser"/>
+          <include name="setBrowser"/>
+        </methods>
+      </class> <!-- testclasses.HomePageFromAccountTest -->
+      <class name="testclasses.QuickCheckoutPageTest">
+        <methods>
+          <include name="quitBrowser"/>
+          <include name="setBrowser"/>
+          <include name="checkoutFormFillup" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- testclasses.QuickCheckoutPageTest -->
+      <class name="testclasses.ShoppingCartTest">
+        <methods>
+          <include name="ckeckOutClick"/>
+          <include name="quitBrowser"/>
+          <include name="setBrowser"/>
+        </methods>
+      </class> <!-- testclasses.ShoppingCartTest -->
+      <class name="testclasses.SelectedProductPageTest">
+        <methods>
+          <include name="addToCartTest"/>
+          <include name="quitBrowser"/>
+          <include name="setBrowser"/>
+        </methods>
+      </class> <!-- testclasses.SelectedProductPageTest -->
+    </classes>
+  </test> <!-- Surefire test(failed) -->
+</suite> <!-- Failed suite [Surefire suite] -->

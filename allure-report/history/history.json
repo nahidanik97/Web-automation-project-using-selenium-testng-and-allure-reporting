@@ -1,0 +1,269 @@
+{
+  "910266a28f7ba43c12c2fbd801ad88c7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "64b199ae706e2117",
+      "status" : "passed",
+      "time" : {
+        "start" : 1707857520251,
+        "stop" : 1707857522327,
+        "duration" : 2076
+      }
+    } ]
+  },
+  "64bacca6686e5c844c1d2e35db073049" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8118a2e9fc40f860",
+      "status" : "passed",
+      "time" : {
+        "start" : 1707857517498,
+        "stop" : 1707857520251,
+        "duration" : 2753
+      }
+    } ]
+  },
+  "47cae450fea43400dd34eb0a11b4a258" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "799a736db90eb7d2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1707857498220,
+        "stop" : 1707857505915,
+        "duration" : 7695
+      }
+    } ]
+  },
+  "fb83a456ea02c7ea0f15b815695b2fd6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8fc3aa5b860ecdde",
+      "status" : "passed",
+      "time" : {
+        "start" : 1707857003709,
+        "stop" : 1707857004137,
+        "duration" : 428
+      }
+    } ]
+  },
+  "dc6bdedb59d5e1751d9b4ce3dc584b0d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b95322bafcc301a3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1707857508548,
+        "stop" : 1707857511217,
+        "duration" : 2669
+      }
+    } ]
+  },
+  "66784161d6d994f2edf9bbacf0217739" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d438b2c9744cc2e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1707857513899,
+        "stop" : 1707857517498,
+        "duration" : 3599
+      }
+    } ]
+  },
+  "a99b90c3fbdb8bca57ccc4468a50c81b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "96a53c2b9386f824",
+      "status" : "passed",
+      "time" : {
+        "start" : 1707791740061,
+        "stop" : 1707791757711,
+        "duration" : 17650
+      }
+    } ]
+  },
+  "1301447140893bc3d873a50349069a7e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bbefd4ed7f7e7200",
+      "status" : "passed",
+      "time" : {
+        "start" : 1707856934997,
+        "stop" : 1707856952107,
+        "duration" : 17110
+      }
+    } ]
+  },
+  "ef1752e2f60a87540a82569c7f2213e3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7af5ce15eff771eb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1707857522327,
+        "stop" : 1707857525033,
+        "duration" : 2706
+      }
+    } ]
+  },
+  "96684c50bb15a64bedab9d7d520422e8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6b6ea1a00d054fea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1707857505949,
+        "stop" : 1707857508548,
+        "duration" : 2599
+      }
+    } ]
+  },
+  "7a80368d5b2a0e025afb2a2bb591014e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a6d7aa6efd1d1b1c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1707857511217,
+        "stop" : 1707857513898,
+        "duration" : 2681
+      }
+    } ]
+  },
+  "c7f22bed9f8c24f27c582268eb3cac23" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "796e0135f5b6d8fc",
+      "status" : "broken",
+      "statusDetails" : "Cannot locate option with text: test1@test.com\nFor documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception\nBuild info: version: '4.16.1', revision: '9b4c83354e'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1.1'\nDriver info: driver.version: unknown",
+      "time" : {
+        "start" : 1707851724019,
+        "stop" : 1707851724208,
+        "duration" : 189
+      }
+    } ]
+  },
+  "92341ba895a5f6fc40ae153985269d09" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "df2a8538b4cfa80c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1707857525033,
+        "stop" : 1707857540630,
+        "duration" : 15597
+      }
+    } ]
+  },
+  "e68599729ca3634156f979c152c00368" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "98650085cfc1c87b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1707857004141,
+        "stop" : 1707857021581,
+        "duration" : 17440
+      }
+    } ]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "uid" : "6aa59d9733cdcbc3",
+  "name" : "clickOnAccountButton",
+  "fullName" : "testclasses.HomePageTest.clickOnAccountButton",
+  "historyId" : "96684c50bb15a64bedab9d7d520422e8",
+  "time" : {
+    "start" : 1707828337989,
+    "stop" : 1707828338724,
+    "duration" : 735
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "setBrowser",
+    "time" : {
+      "start" : 1707828334400,
+      "stop" : 1707828335717,
+      "duration" : 1317
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "quitBrowser",
+    "time" : {
+      "start" : 1707828360163,
+      "stop" : 1707828360288,
+      "duration" : 125
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testclasses.HomePageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "testclasses.HomePageTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "clickOnAccountButton"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "testclasses.HomePageTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-E026L7N"
+  }, {
+    "name" : "thread",
+    "value" : "15528@DESKTOP-E026L7N.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6aa59d9733cdcbc3.json",
+  "parameterValues" : [ ]
+}

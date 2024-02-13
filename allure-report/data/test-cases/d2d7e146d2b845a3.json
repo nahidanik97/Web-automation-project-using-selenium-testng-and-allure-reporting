@@ -1,0 +1,91 @@
+{
+  "uid" : "d2d7e146d2b845a3",
+  "name" : "selectLaptop",
+  "fullName" : "testclasses.LaptopSelectionFromPage.selectLaptop",
+  "historyId" : "64bacca6686e5c844c1d2e35db073049",
+  "time" : {
+    "start" : 1707851198319,
+    "stop" : 1707851199132,
+    "duration" : 813
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "setBrowser",
+    "time" : {
+      "start" : 1707851163916,
+      "stop" : 1707851165262,
+      "duration" : 1346
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "quitBrowser",
+    "time" : {
+      "start" : 1707851199285,
+      "stop" : 1707851199465,
+      "duration" : 180
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testclasses.LaptopSelectionFromPage"
+  }, {
+    "name" : "testClass",
+    "value" : "testclasses.LaptopSelectionFromPage"
+  }, {
+    "name" : "testMethod",
+    "value" : "selectLaptop"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "testclasses.LaptopSelectionFromPage"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-E026L7N"
+  }, {
+    "name" : "thread",
+    "value" : "15756@DESKTOP-E026L7N.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d2d7e146d2b845a3.json",
+  "parameterValues" : [ ]
+}

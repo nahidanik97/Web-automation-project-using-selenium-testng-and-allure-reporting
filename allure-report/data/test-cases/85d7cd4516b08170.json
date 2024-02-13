@@ -1,0 +1,122 @@
+{
+  "uid" : "85d7cd4516b08170",
+  "name" : "submitRegistration",
+  "fullName" : "testclasses.ResgistrationTest.submitRegistration",
+  "historyId" : "1301447140893bc3d873a50349069a7e",
+  "time" : {
+    "start" : 1707856499432,
+    "stop" : 1707856516996,
+    "duration" : 17564
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "setBrowser",
+    "time" : {
+      "start" : 1707856492496,
+      "stop" : 1707856494424,
+      "duration" : 1928
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f164e2a3468d001d",
+      "name" : "signup_data",
+      "source" : "f164e2a3468d001d.png",
+      "type" : "image/png",
+      "size" : 83676
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "quitBrowser",
+    "time" : {
+      "start" : 1707856517090,
+      "stop" : 1707856517200,
+      "duration" : 110
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testclasses.ResgistrationTest"
+  }, {
+    "name" : "testClass",
+    "value" : "testclasses.ResgistrationTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "submitRegistration"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "testclasses.ResgistrationTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-E026L7N"
+  }, {
+    "name" : "thread",
+    "value" : "15652@DESKTOP-E026L7N.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "Aaa"
+  }, {
+    "name" : "arg1",
+    "value" : "Bbb"
+  }, {
+    "name" : "arg2",
+    "value" : "test2@test.com"
+  }, {
+    "name" : "arg3",
+    "value" : "01711111111"
+  }, {
+    "name" : "arg4",
+    "value" : "qwerty1"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "85d7cd4516b08170.json",
+  "parameterValues" : [ "Aaa", "Bbb", "test2@test.com", "01711111111", "qwerty1" ]
+}

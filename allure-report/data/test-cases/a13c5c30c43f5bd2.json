@@ -1,0 +1,106 @@
+{
+  "uid" : "a13c5c30c43f5bd2",
+  "name" : "submitRegistration",
+  "fullName" : "testclasses.ResgistrationTest.submitRegistration",
+  "historyId" : "a99b90c3fbdb8bca57ccc4468a50c81b",
+  "time" : {
+    "start" : 1707788656095,
+    "stop" : 1707788664570,
+    "duration" : 8475
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "setBrowser",
+    "time" : {
+      "start" : 1707788652665,
+      "stop" : 1707788654094,
+      "duration" : 1429
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "quitBrowser",
+    "time" : {
+      "start" : 1707788664585,
+      "stop" : 1707788664695,
+      "duration" : 110
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testclasses.ResgistrationTest"
+  }, {
+    "name" : "testClass",
+    "value" : "testclasses.ResgistrationTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "submitRegistration"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "testclasses.ResgistrationTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-E026L7N"
+  }, {
+    "name" : "thread",
+    "value" : "4532@DESKTOP-E026L7N.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "Abul1"
+  }, {
+    "name" : "arg1",
+    "value" : "Babul1"
+  }, {
+    "name" : "arg2",
+    "value" : "test1@test.com"
+  }, {
+    "name" : "arg3",
+    "value" : "01711111111"
+  }, {
+    "name" : "arg4",
+    "value" : "qwerty"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a13c5c30c43f5bd2.json",
+  "parameterValues" : [ "Abul1", "Babul1", "test1@test.com", "01711111111", "qwerty" ]
+}

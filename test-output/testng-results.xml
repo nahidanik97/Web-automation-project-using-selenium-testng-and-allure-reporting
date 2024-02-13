@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-14T01:27:59 BDT" name="Suite" finished-at="2024-02-14T01:28:36 BDT" duration-ms="37101">
+    <groups>
+    </groups>
+    <test started-at="2024-02-14T01:27:59 BDT" name="Test" finished-at="2024-02-14T01:28:36 BDT" duration-ms="37101">
+      <class name="testclasses.LoginPageOldCustomerLogin">
+        <test-method signature="customerLogin(java.lang.String,java.lang.String)[pri:0, instance:testclasses.LoginPageOldCustomerLogin@13526e59]" started-at="2024-02-14T01:28:03 BDT" name="customerLogin" data-provider="logindata" finished-at="2024-02-14T01:28:06 BDT" duration-ms="2590" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test1@test.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[qwerty]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customerLogin -->
+      </class> <!-- testclasses.LoginPageOldCustomerLogin -->
+      <class name="testclasses.QuickCheckoutPageTest">
+        <test-method signature="checkoutFormFillup(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testclasses.QuickCheckoutPageTest@461ad730]" started-at="2024-02-14T01:28:21 BDT" name="checkoutFormFillup" data-provider="checkoutdata" finished-at="2024-02-14T01:28:36 BDT" duration-ms="15439" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Abul]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mirpur]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Dhaka]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[cpupon]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[ASAP]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoutFormFillup -->
+      </class> <!-- testclasses.QuickCheckoutPageTest -->
+      <class name="testclasses.DropdownToAppleLaptop">
+        <test-method signature="clickToAppleLaptopTest()[pri:0, instance:testclasses.DropdownToAppleLaptop@3bcd05cb]" started-at="2024-02-14T01:28:09 BDT" name="clickToAppleLaptopTest" finished-at="2024-02-14T01:28:12 BDT" duration-ms="3434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickToAppleLaptopTest -->
+      </class> <!-- testclasses.DropdownToAppleLaptop -->
+      <class name="testclasses.HomePageFromAccountTest">
+        <test-method signature="toHomePage()[pri:0, instance:testclasses.HomePageFromAccountTest@17503f6b]" started-at="2024-02-14T01:28:06 BDT" name="toHomePage" finished-at="2024-02-14T01:28:09 BDT" duration-ms="2710" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toHomePage -->
+      </class> <!-- testclasses.HomePageFromAccountTest -->
+      <class name="testclasses.HomePageTest">
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:testclasses.HomePageTest@7d322cad]" started-at="2024-02-14T01:27:58 BDT" name="setBrowser" finished-at="2024-02-14T01:27:59 BDT" duration-ms="1375" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method signature="homePageStartup()[pri:0, instance:testclasses.HomePageTest@7d322cad]" started-at="2024-02-14T01:27:59 BDT" name="homePageStartup" finished-at="2024-02-14T01:28:01 BDT" duration-ms="1732" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageStartup -->
+        <test-method signature="clickOnAccountButton()[pri:1, instance:testclasses.HomePageTest@7d322cad]" started-at="2024-02-14T01:28:01 BDT" name="clickOnAccountButton" finished-at="2024-02-14T01:28:03 BDT" duration-ms="2567" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnAccountButton -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:testclasses.HomePageTest@7d322cad]" started-at="2024-02-14T01:28:36 BDT" name="quitBrowser" finished-at="2024-02-14T01:28:37 BDT" duration-ms="254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- testclasses.HomePageTest -->
+      <class name="testclasses.LaptopSelectionFromPage">
+        <test-method signature="selectLaptop()[pri:0, instance:testclasses.LaptopSelectionFromPage@36804139]" started-at="2024-02-14T01:28:12 BDT" name="selectLaptop" finished-at="2024-02-14T01:28:16 BDT" duration-ms="3430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectLaptop -->
+      </class> <!-- testclasses.LaptopSelectionFromPage -->
+      <class name="testclasses.ShoppingCartTest">
+        <test-method signature="ckeckOutClick()[pri:0, instance:testclasses.ShoppingCartTest@10289886]" started-at="2024-02-14T01:28:18 BDT" name="ckeckOutClick" finished-at="2024-02-14T01:28:21 BDT" duration-ms="3033" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ckeckOutClick -->
+      </class> <!-- testclasses.ShoppingCartTest -->
+      <class name="testclasses.SelectedProductPageTest">
+        <test-method signature="addToCartTest()[pri:0, instance:testclasses.SelectedProductPageTest@730d2164]" started-at="2024-02-14T01:28:16 BDT" name="addToCartTest" finished-at="2024-02-14T01:28:18 BDT" duration-ms="2085" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCartTest -->
+      </class> <!-- testclasses.SelectedProductPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

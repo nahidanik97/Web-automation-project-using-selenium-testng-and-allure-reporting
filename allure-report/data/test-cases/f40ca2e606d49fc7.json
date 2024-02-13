@@ -1,0 +1,91 @@
+{
+  "uid" : "f40ca2e606d49fc7",
+  "name" : "clickOnNewCustomerContinueButton",
+  "fullName" : "testclasses.LoginPageNewCustomerTest.clickOnNewCustomerContinueButton",
+  "historyId" : "fb83a456ea02c7ea0f15b815695b2fd6",
+  "time" : {
+    "start" : 1707784535300,
+    "stop" : 1707784535760,
+    "duration" : 460
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "setBrowser",
+    "time" : {
+      "start" : 1707784532189,
+      "stop" : 1707784533539,
+      "duration" : 1350
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "quitBrowser",
+    "time" : {
+      "start" : 1707784535785,
+      "stop" : 1707784535891,
+      "duration" : 106
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testclasses.LoginPageNewCustomerTest"
+  }, {
+    "name" : "testClass",
+    "value" : "testclasses.LoginPageNewCustomerTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "clickOnNewCustomerContinueButton"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "testclasses.LoginPageNewCustomerTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-E026L7N"
+  }, {
+    "name" : "thread",
+    "value" : "19484@DESKTOP-E026L7N.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f40ca2e606d49fc7.json",
+  "parameterValues" : [ ]
+}

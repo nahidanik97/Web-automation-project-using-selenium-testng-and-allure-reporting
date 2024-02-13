@@ -1,0 +1,59 @@
+STEPS
+new customer sign in / login
+go to home page
+laptop>laptop>apple
+go to page 2
+select
+quantity 2
+add to cart
+checkout
+quick checkout page
+
+
+mvn test -Dtestfile=name.xml
+mvn test -Dtestfile=name.xml -Dbrowser=edge
+mvn test
+mvn test -Dtest="LoginTest.java"
+pom file e inclues r modde file add korle sudu mvn test dia e run kora jay
+example eta jabe configuaration r vetor        <includes><include>LoginTest.java</include></includes>
+abar include r vetor variabel set kore dite pari like <includes><include>${testfile}</include></includes>
+taile command hobe mvn test -Dtestfile=name.xml
+mvn test -Dtestfile=name.xml -Dbrowser=edge
+mvn test
+mvn test -Dtest="LoginTest.java"
+pom file e inclues r modde file add korle sudu mvn test dia e run kora jay
+example eta jabe configuaration r vetor        <includes><include>LoginTest.java</include></includes>
+abar include r vetor variabel set kore dite pari like <includes><include>${testfile}</include></includes>
+taile command hobe mvn test -Dtestfile ="LoginTest.java"
+https://maven.apache.org/surefire/maven-surefire-plugin/examples/testng.html
+
+
+
+browser select :  mvn test -Dtest="LoginTest.java" -Dbrowser="edge"
+
+
+allure:
+https://repo.maven.apache.org/maven2/io/qameta/allure/allure-commandline/
+https://www.webmo.net/link/help/AccessingLocalFiles.html
+allure generate ./allure-results --clean
+allure open ./allure-report
+
+/temporary solution
+cd C:\Program Files\Google\Chrome\Application
+chrome.exe --allow-file-access-from-files
+https://maven.apache.org/surefire/maven-surefire-plugin/examples/testng.html
+
+
+
+browser select :  mvn test -Dtest="LoginTest.java" -Dbrowser="edge"
+
+
+allure:
+https://repo.maven.apache.org/maven2/io/qameta/allure/allure-commandline/
+https://www.webmo.net/link/help/AccessingLocalFiles.html
+allure generate ./allure-results --clean
+allure open ./allure-report
+
+/temporary solution
+cd C:\Program Files\Google\Chrome\Application
+chrome.exe --allow-file-access-from-files

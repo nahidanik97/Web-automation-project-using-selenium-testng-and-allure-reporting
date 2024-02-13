@@ -1,0 +1,288 @@
+{
+  "uid" : "a6d7aa6efd1d1b1c",
+  "name" : "toHomePage",
+  "fullName" : "testclasses.HomePageFromAccountTest.toHomePage",
+  "historyId" : "7a80368d5b2a0e025afb2a2bb591014e",
+  "time" : {
+    "start" : 1707857511217,
+    "stop" : 1707857513898,
+    "duration" : 2681
+  },
+  "status" : "passed",
+  "flaky" : true,
+  "beforeStages" : [ {
+    "name" : "setBrowser",
+    "time" : {
+      "start" : 1707857496885,
+      "stop" : 1707857498176,
+      "duration" : 1291
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "quitBrowser",
+    "time" : {
+      "start" : 1707857540661,
+      "stop" : 1707857540802,
+      "duration" : 141
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testclasses.HomePageFromAccountTest"
+  }, {
+    "name" : "testClass",
+    "value" : "testclasses.HomePageFromAccountTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "toHomePage"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "testclasses.HomePageFromAccountTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-E026L7N"
+  }, {
+    "name" : "thread",
+    "value" : "6800@DESKTOP-E026L7N.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d400b32533300835",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//img[@alt='PC House']\"}\n  (Session info: chrome=121.0.6167.161)\nFor documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception\nBuild info: version: '4.16.1', revision: '9b4c83354e'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [fea7b416590ffe1cce69127da4e36488, findElement {using=xpath, value=//img[@alt='PC House']}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.161, chrome: {chromedriverVersion: 121.0.6167.85 (3f98d690ad7e..., userDataDir: C:\\Users\\cloud\\AppData\\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:7146}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:7146/devtool..., se:cdpVersion: 121.0.6167.161, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: fea7b416590ffe1cce69127da4e36488",
+      "time" : {
+        "start" : 1707856552861,
+        "stop" : 1707856552890,
+        "duration" : 29
+      }
+    }, {
+      "uid" : "4f05974f37b0f056",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//img[@alt='PC House']\"}\n  (Session info: MicrosoftEdge=121.0.2277.112)\nFor documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception\nBuild info: version: '4.16.1', revision: '9b4c83354e'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1.1'\nDriver info: org.openqa.selenium.edge.EdgeDriver\nCommand: [575222353509f689c2413836eb1b242d, findElement {using=xpath, value=//img[@alt='PC House']}]\nCapabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 121.0.2277.112, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:7094}, msedge: {msedgedriverVersion: 121.0.2277.112 (c44bb51ada3..., userDataDir: C:\\Users\\cloud\\AppData\\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:7094/devtool..., se:cdpVersion: 121.0.2277.112, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: 575222353509f689c2413836eb1b242d",
+      "time" : {
+        "start" : 1707856523141,
+        "stop" : 1707856523198,
+        "duration" : 57
+      }
+    }, {
+      "uid" : "6501985613edb46b",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//img[@alt='PC House']\"}\n  (Session info: chrome=121.0.6167.161)\nFor documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception\nBuild info: version: '4.16.1', revision: '9b4c83354e'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [d1f4e5b4c2a997954ea073f999ebe10e, findElement {using=xpath, value=//img[@alt='PC House']}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.161, chrome: {chromedriverVersion: 121.0.6167.85 (3f98d690ad7e..., userDataDir: C:\\Users\\cloud\\AppData\\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:7041}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:7041/devtool..., se:cdpVersion: 121.0.6167.161, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: d1f4e5b4c2a997954ea073f999ebe10e",
+      "time" : {
+        "start" : 1707856494470,
+        "stop" : 1707856494498,
+        "duration" : 28
+      }
+    }, {
+      "uid" : "bc2b455543dd92f6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1707852486591,
+        "stop" : 1707852489299,
+        "duration" : 2708
+      }
+    }, {
+      "uid" : "f390dc32db8dee19",
+      "status" : "passed",
+      "time" : {
+        "start" : 1707851805752,
+        "stop" : 1707851808673,
+        "duration" : 2921
+      }
+    }, {
+      "uid" : "bef89290ba821f8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1707851709108,
+        "stop" : 1707851711822,
+        "duration" : 2714
+      }
+    }, {
+      "uid" : "d7f6f6a80e3ab58f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1707851521672,
+        "stop" : 1707851524471,
+        "duration" : 2799
+      }
+    }, {
+      "uid" : "cbfdfab3270ce464",
+      "status" : "passed",
+      "time" : {
+        "start" : 1707851196241,
+        "stop" : 1707851197066,
+        "duration" : 825
+      }
+    }, {
+      "uid" : "a08ecebae952ca32",
+      "status" : "passed",
+      "time" : {
+        "start" : 1707851132724,
+        "stop" : 1707851134105,
+        "duration" : 1381
+      }
+    }, {
+      "uid" : "924fc51427a87f6a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1707846519375,
+        "stop" : 1707846520608,
+        "duration" : 1233
+      }
+    }, {
+      "uid" : "fbf1678d32112ab8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1707846462581,
+        "stop" : 1707846464731,
+        "duration" : 2150
+      }
+    }, {
+      "uid" : "f24a8f628a32056c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1707846366032,
+        "stop" : 1707846368616,
+        "duration" : 2584
+      }
+    }, {
+      "uid" : "d86828597ebcf99a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1707846219460,
+        "stop" : 1707846221614,
+        "duration" : 2154
+      }
+    }, {
+      "uid" : "4b4d5aede03ba0c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1707845430371,
+        "stop" : 1707845431546,
+        "duration" : 1175
+      }
+    }, {
+      "uid" : "bce0011551d87a5a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1707845235533,
+        "stop" : 1707845237187,
+        "duration" : 1654
+      }
+    }, {
+      "uid" : "6bf677e2786d0e2a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1707843983171,
+        "stop" : 1707843984994,
+        "duration" : 1823
+      }
+    }, {
+      "uid" : "eeb70b7f66b46788",
+      "status" : "passed",
+      "time" : {
+        "start" : 1707841450908,
+        "stop" : 1707841453303,
+        "duration" : 2395
+      }
+    }, {
+      "uid" : "bf7a2d6209e9f4d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1707841244258,
+        "stop" : 1707841246532,
+        "duration" : 2274
+      }
+    }, {
+      "uid" : "f85d3c7f06e3b3df",
+      "status" : "passed",
+      "time" : {
+        "start" : 1707839596618,
+        "stop" : 1707839597687,
+        "duration" : 1069
+      }
+    }, {
+      "uid" : "df5351b10b64af9d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1707839548565,
+        "stop" : 1707839549818,
+        "duration" : 1253
+      }
+    }, {
+      "uid" : "e56a9049b54a36d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1707839461571,
+        "stop" : 1707839463555,
+        "duration" : 1984
+      }
+    }, {
+      "uid" : "ec547aad831d3144",
+      "status" : "passed",
+      "time" : {
+        "start" : 1707836138186,
+        "stop" : 1707836139371,
+        "duration" : 1185
+      }
+    }, {
+      "uid" : "a0ea6292c7f1f31d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1707835505530,
+        "stop" : 1707835508649,
+        "duration" : 3119
+      }
+    }, {
+      "uid" : "8f59fbe5c9fe482a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1707828356961,
+        "stop" : 1707828360099,
+        "duration" : 3138
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a6d7aa6efd1d1b1c.json",
+  "parameterValues" : [ ]
+}

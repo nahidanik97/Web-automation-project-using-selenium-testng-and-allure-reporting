@@ -1,0 +1,97 @@
+{
+  "uid" : "ddd3906c1cffe95c",
+  "name" : "customerLogin",
+  "fullName" : "testclasses.LoginPageOldCustomerLogin.customerLogin",
+  "historyId" : "dc6bdedb59d5e1751d9b4ce3dc584b0d",
+  "time" : {
+    "start" : 1707846518775,
+    "stop" : 1707846519370,
+    "duration" : 595
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "setBrowser",
+    "time" : {
+      "start" : 1707846514619,
+      "stop" : 1707846515968,
+      "duration" : 1349
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "quitBrowser",
+    "time" : {
+      "start" : 1707846534742,
+      "stop" : 1707846534837,
+      "duration" : 95
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testclasses.LoginPageOldCustomerLogin"
+  }, {
+    "name" : "testClass",
+    "value" : "testclasses.LoginPageOldCustomerLogin"
+  }, {
+    "name" : "testMethod",
+    "value" : "customerLogin"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "testclasses.LoginPageOldCustomerLogin"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-E026L7N"
+  }, {
+    "name" : "thread",
+    "value" : "18288@DESKTOP-E026L7N.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "test1@test.com"
+  }, {
+    "name" : "arg1",
+    "value" : "qwerty"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ddd3906c1cffe95c.json",
+  "parameterValues" : [ "test1@test.com", "qwerty" ]
+}

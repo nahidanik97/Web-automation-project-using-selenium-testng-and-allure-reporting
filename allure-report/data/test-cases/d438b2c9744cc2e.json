@@ -1,0 +1,255 @@
+{
+  "uid" : "d438b2c9744cc2e",
+  "name" : "clickToAppleLaptopTest",
+  "fullName" : "testclasses.DropdownToAppleLaptop.clickToAppleLaptopTest",
+  "historyId" : "66784161d6d994f2edf9bbacf0217739",
+  "time" : {
+    "start" : 1707857513899,
+    "stop" : 1707857517498,
+    "duration" : 3599
+  },
+  "status" : "passed",
+  "flaky" : true,
+  "beforeStages" : [ {
+    "name" : "setBrowser",
+    "time" : {
+      "start" : 1707857496885,
+      "stop" : 1707857498176,
+      "duration" : 1291
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "quitBrowser",
+    "time" : {
+      "start" : 1707857540661,
+      "stop" : 1707857540802,
+      "duration" : 141
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "testclasses.DropdownToAppleLaptop"
+  }, {
+    "name" : "testClass",
+    "value" : "testclasses.DropdownToAppleLaptop"
+  }, {
+    "name" : "testMethod",
+    "value" : "clickToAppleLaptopTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "testclasses.DropdownToAppleLaptop"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-E026L7N"
+  }, {
+    "name" : "thread",
+    "value" : "6800@DESKTOP-E026L7N.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8a452b82f745708b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1707852489299,
+        "stop" : 1707852492733,
+        "duration" : 3434
+      }
+    }, {
+      "uid" : "3dee5900eac1cef2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1707851808673,
+        "stop" : 1707851812916,
+        "duration" : 4243
+      }
+    }, {
+      "uid" : "b645e977980733e3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1707851711822,
+        "stop" : 1707851715381,
+        "duration" : 3559
+      }
+    }, {
+      "uid" : "b83d28ef9fd64d9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1707851524471,
+        "stop" : 1707851527798,
+        "duration" : 3327
+      }
+    }, {
+      "uid" : "1ec700d8965f36fc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1707851197070,
+        "stop" : 1707851198319,
+        "duration" : 1249
+      }
+    }, {
+      "uid" : "41065aa6870c734c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1707851134108,
+        "stop" : 1707851139445,
+        "duration" : 5337
+      }
+    }, {
+      "uid" : "ff78dee0b4665fb0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1707846520612,
+        "stop" : 1707846522523,
+        "duration" : 1911
+      }
+    }, {
+      "uid" : "cd635082daa4a773",
+      "status" : "broken",
+      "statusDetails" : "element not interactable: [object HTMLLIElement] has no size and location\n  (Session info: chrome=121.0.6167.161)\nBuild info: version: '4.16.1', revision: '9b4c83354e'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [622309296dad7704995b56847e64e65d, actions {actions=[org.openqa.selenium.interactions.Sequence@760cf594]}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.161, chrome: {chromedriverVersion: 121.0.6167.85 (3f98d690ad7e..., userDataDir: C:\\Users\\cloud\\AppData\\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:45235}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:45235/devtoo..., se:cdpVersion: 121.0.6167.161, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: 622309296dad7704995b56847e64e65d",
+      "time" : {
+        "start" : 1707846464731,
+        "stop" : 1707846464943,
+        "duration" : 212
+      }
+    }, {
+      "uid" : "6a6385f6c75a44c3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1707846368621,
+        "stop" : 1707846371112,
+        "duration" : 2491
+      }
+    }, {
+      "uid" : "de80f35b47f396ac",
+      "status" : "passed",
+      "time" : {
+        "start" : 1707846221618,
+        "stop" : 1707846223320,
+        "duration" : 1702
+      }
+    }, {
+      "uid" : "966915b65a420f46",
+      "status" : "passed",
+      "time" : {
+        "start" : 1707845431550,
+        "stop" : 1707845435300,
+        "duration" : 3750
+      }
+    }, {
+      "uid" : "eee671d2ac59dc29",
+      "status" : "passed",
+      "time" : {
+        "start" : 1707845237192,
+        "stop" : 1707845238840,
+        "duration" : 1648
+      }
+    }, {
+      "uid" : "64d72ab94c70acd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1707843984994,
+        "stop" : 1707843987024,
+        "duration" : 2030
+      }
+    }, {
+      "uid" : "aa8f5671b010caef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1707841453309,
+        "stop" : 1707841454980,
+        "duration" : 1671
+      }
+    }, {
+      "uid" : "5032d9e7d573e119",
+      "status" : "passed",
+      "time" : {
+        "start" : 1707841246537,
+        "stop" : 1707841248728,
+        "duration" : 2191
+      }
+    }, {
+      "uid" : "54abca53a79e7674",
+      "status" : "passed",
+      "time" : {
+        "start" : 1707839597700,
+        "stop" : 1707839598900,
+        "duration" : 1200
+      }
+    }, {
+      "uid" : "3d2b5c762f5812d7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1707839549821,
+        "stop" : 1707839551549,
+        "duration" : 1728
+      }
+    }, {
+      "uid" : "3a750daf09761d3c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1707839463558,
+        "stop" : 1707839465012,
+        "duration" : 1454
+      }
+    }, {
+      "uid" : "443ca95249c3a695",
+      "status" : "passed",
+      "time" : {
+        "start" : 1707836139374,
+        "stop" : 1707836148034,
+        "duration" : 8660
+      }
+    }, {
+      "uid" : "6595ce87b04fbb28",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//li[@class='menu-item main-menu-item main-menu-item-2 multi-level dropdown drop-menu open animating']/div/ul/li[1]\"}\n  (Session info: chrome=121.0.6167.161)\nFor documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception\nBuild info: version: '4.16.1', revision: '9b4c83354e'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [9ffa42f716c4dc44fe6e29392e088deb, findElement {using=xpath, value=//li[@class='menu-item main-menu-item main-menu-item-2 multi-level dropdown drop-menu open animating']/div/ul/li[1]}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.161, chrome: {chromedriverVersion: 121.0.6167.85 (3f98d690ad7e..., userDataDir: C:\\Users\\cloud\\AppData\\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:16277}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:16277/devtoo..., se:cdpVersion: 121.0.6167.161, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: 9ffa42f716c4dc44fe6e29392e088deb",
+      "time" : {
+        "start" : 1707835508650,
+        "stop" : 1707835510887,
+        "duration" : 2237
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d438b2c9744cc2e.json",
+  "parameterValues" : [ ]
+}
